@@ -1,7 +1,8 @@
-## Olá! Eu sou o Lucas Amaral
+## Hi 👋, I'm Lucas Amaral
 
-- 🔭 Hoje trabalho com Full-Stack
-- 🌱 Estudando PHP/Laravel, Typescript, Docker, SOLID e Clean Code
+- 🔭 I’m currently working at Elleven Tecnologia
+- 🌱 I’m currently learning PHP/Laravel, Typescript, Docker, SOLID and Clean Code
+- 💬 Ask me about Angular and Laravel.
 
 <div>
   <a href="https://github.com/LucasAmara1">
