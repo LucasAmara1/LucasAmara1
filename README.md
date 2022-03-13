@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Lucas Amaral
 
-- 🔭 I’m currently working at Elleven Tecnologia
-- 🌱 I’m currently learning PHP/Laravel, Typescript, Docker, SOLID and Clean Code
+- 🔭 I’m currently working at Checklist Fácil
+- 🌱 I’m currently learning PHP/Laravel, Docker, SOLID and Clean Code
 - 💬 Ask me about Angular and Laravel.
 
 <div>
